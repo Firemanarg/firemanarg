@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Firemanarg/firemanarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![banner_animated_v4](https://github.com/Firemanarg/firemanarg/assets/35619327/3d446721-a122-4449-b416-310abef81e23)
