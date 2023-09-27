@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ---
 <p align="center">
-  <img src="https://github.com/Firemanarg/firemanarg/assets/35619327/3d446721-a122-4449-b416-310abef81e23" alt="Welcome Banner">
+  <img src="https://github.com/Firemanarg/firemanarg/assets/35619327/408dde0c-8918-4bc0-a9e8-780600cb4f30" alt="Welcome Banner">
 </p>
 
 ---
